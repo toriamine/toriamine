@@ -1,8 +1,8 @@
-![Header](https://github.com/toriamine/toriamine/blob/main/assets/header.jpg)
+![Header](https://github.com/toriamine/toriamine/blob/main/assets/header1.jpg)
 
 ## I'm a beginner Software Engeneer
 
-This is a GitHub repository that contains folders for my beginner project in the mobile development field ![Folder](https://github.com/toriamine/toriamine/blob/main/assets/folder.jpg)
+This is a GitHub repository that contains folders for my beginner project in the mobile development field ![Folder](https://github.com/toriamine/toriamine/blob/main/assets/folder.png)
 
 ### Latest YouTube Videos
 
