@@ -1,9 +1,9 @@
 # My name is Victoria Mineeva
-In this profile, I want to present my IT projects.
+In this profile, I want to present my IT projects
 
 ## I'm a beginner Software Engeneer
 
-This is a GitHub repository that contains folders for my beginner project in the mobile development field ![Folder](https://github.com/toriamine/toriamine/blob/main/assets/folder.png)
+This is a GitHub repository that contains folders for my beginner project in the mobile development field
 
 ### Languages and Tools
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=47C5FB)
