@@ -18,3 +18,11 @@
 
 ### Моя статистика GitHub
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toriamine&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+## Решённые задачи и рейтинг
+
+### LeetCode
+[![LeetCode Stats](https://leetcard.jacoblin.cool/toriamine?theme=dark&font=Source%20Code%20Pro&ext=heatmap)](https://leetcode.com/toriamine/)
+
+### Codewars
+[![Codewars](https://www.codewars.com/users/toriamine/badges/large)](https://www.codewars.com/users/toriamine)
